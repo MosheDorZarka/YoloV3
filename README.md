@@ -11,6 +11,7 @@ For additional guidance, consult the notebook's embedded comments.
 
 ## Features and Enhancements
 This project explores enhancing a YOLOv3 model using Keras3, notable for its backend-agnostic feature, allowing flexibility across different backend frameworks. A key experiment was integrating a self-attention layer to potentially improve object size detection, aiming to achieve this without significantly increasing the model's complexity. While the effectiveness of this enhancement hasn't been fully tested, and visualizations of the attention mechanism were not developed, the project serves me as a valuable learning exercise. Furthermore, I dedicated effort to developing custom functions for the project, prioritizing the optimization of these functions through vectorized operations. This approach was intended to enhance computational efficiency, a critical factor in the performance of deep learning models.
+Additionally, the project utilizes ResNet50 as the backbone, pretrained on ImageNet, to leverage its powerful feature extraction capabilities, although exploring alternative architectures could yield different insights.
 
 ## Results
 <div style="display: flex;">
