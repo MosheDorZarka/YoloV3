@@ -14,6 +14,6 @@ This project explores enhancing a YOLOv3 model with Keras3, notable for its back
 
 ## Results
 <div style="display: flex;">
-  <img src="https://github.com/MosheDorZarka/YoloV3/blob/main/results/result_1.png" alt="YOLO Custom Model Results" width="416" height="416">
-  <img src="https://github.com/MosheDorZarka/YoloV3/blob/main/results/result_2.png" alt="YOLO Custom Model Results" width="416" height="416">
+  <img src="https://github.com/MosheDorZarka/YoloV3/blob/main/results/result_1.png" alt="YOLO Custom Model Results" width="300" height="300">
+  <img src="https://github.com/MosheDorZarka/YoloV3/blob/main/results/result_2.png" alt="YOLO Custom Model Results" width="300" height="300">
 </div>
