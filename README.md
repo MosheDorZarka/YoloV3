@@ -18,3 +18,7 @@ Additionally, the project utilizes ResNet50 as the backbone, pretrained on Image
   <img src="https://github.com/MosheDorZarka/YoloV3/blob/main/results/result_1.png" alt="YOLO Custom Model Results" width="300" height="300">
   <img src="https://github.com/MosheDorZarka/YoloV3/blob/main/results/result_2.png" alt="YOLO Custom Model Results" width="300" height="300">
 </div>
+
+## Contact Information
+
+## Acknowledgments
